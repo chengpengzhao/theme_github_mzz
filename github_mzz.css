@@ -255,13 +255,10 @@ ol:last-child {
 }
 
 blockquote {
-    /*border-left: 4px solid #dfe2e5;*/
-    /*padding: 0 15px;*/
-    /*color: #777777;*/
-    text-align: center;
-    font-family: "SimHei";
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
 }
-
 blockquote blockquote {
     padding-right: 0;
 }
